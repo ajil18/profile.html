@@ -1,0 +1,40 @@
+<html>
+<head>
+<title>HI</title>
+</head>
+<body bgcolor="white">
+<font color="red">
+<h1 style="text-align: center;">RNU</h1>
+<h1 style="text-align: center;">AJIL JOSEPH</h1>
+</font>
+<p>
+Virat Kohli (born November 5, 1988) is an Indian international cricketer and one of the greatest batters in cricket history. Known for his fiery passion, strict fitness discipline, and remarkable consistency, he has scored over 80 international centuries across formats and leads the run charts in the Indian Premier League for Royal Challengers Bengaluru. He captained India across all formats with massive success—winning historic series like the 2018–19 tour of Australia—and helped India win the 2011 ODI World Cup, the 2013 ICC Champions Trophy, and the 2024 T20I World Cup </p>
+<h1 style="text-align: left;">Education</h1>
+<ul>
+  <li>Higher Secondary degree</li>
+   <ul type="circle">
+       <li>subject and marks</li>
+          <ul type="square">
+              <li>MATHS - 82</li>
+           
+</ul>
+</ul>
+</ul>
+<ol>
+<li>DEGREE</li>
+  <ol type="I">
+         <li>1st YEAR</li>
+     <ol type="i">
+         <li>maths-82</li>
+          <ol type="i">
+         <li>maths was interesting to study </li>      
+          </ol>
+          </ol>
+          </ol>
+  
+   </ol>
+   <hr>
+   <p>The security situation in Europe is highly tense and on high alert, marked by a sharp escalation in Russian hybrid warfare, airspace violations, and widespread warnings from European leaders about the potential for broader conflict. While NATO intelligence indicates there is no imminent threat of a full-scale conventional military invasion against an alliance member, Europe is bracing for a worst-case scenario due to intensifying gray-zone provocations.
+   </p>
+</body>
+</html>
